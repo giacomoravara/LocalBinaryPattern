@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -pthread -g   CMakeFiles/prototipo.dir/AbstractLbp.cpp.o CMakeFiles/prototipo.dir/Benchmark.cpp.o CMakeFiles/prototipo.dir/LbpSeq.cpp.o CMakeFiles/prototipo.dir/LbpPar.cpp.o CMakeFiles/prototipo.dir/lodepng.cpp.o  -o prototipo -lpthread 

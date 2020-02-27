@@ -1,0 +1,3 @@
+/home/giacomo/Scrivania/prototipo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/giacomo/Scrivania/prototipo/cmake-build-debug/CMakeFiles/prototipo.dir
+/home/giacomo/Scrivania/prototipo/cmake-build-debug/CMakeFiles/edit_cache.dir
